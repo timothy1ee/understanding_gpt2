@@ -4,6 +4,10 @@ This project provides an in-depth exploration of the GPT-2 model architecture th
 
 The Python notebook implements the GPT-2 model layer by layer.
 
+This exploration was made possible by the excellent book, [Build a Large Language Model (From Scratch)](https://www.amazon.com/Build-Large-Language-Model-Scratch-ebook/dp/B0DGQXVK62) by Sebastian Raschka. The book is accompanied by a [GitHub repository](https://github.com/rasbt/LLMs-from-scratch) that contains the code for the book.
+
+The architecture diagram and the attention diagrams in the notebook are from the book.
+
 ## Requirements
 
 - Python 3.11
